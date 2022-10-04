@@ -23,7 +23,6 @@ The exercise is about how to create and animate HTML components that will follow
 
 As part of a personal preference and desire to further improve the exercise, I added the picture of the iris to the eye ball components as a form of extra practice.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
